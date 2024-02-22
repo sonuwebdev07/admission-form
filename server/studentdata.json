@@ -1,0 +1,21 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "sf_name": "sonu",
+      "sl_name": "gautam",
+      "class": "2016-2017",
+      "dob": "22-05-1998",
+      "pf_name": "Gori Shankar",
+      "pl_name": "Singh",
+      "address_line_1": "234/65",
+      "address_line_2": "pitampura",
+      "city": "Delhi",
+      "district": "North",
+      "zip": "110049",
+      "country": "India",
+      "mobile_number": "9988776655",
+      "email": "sonu@example.com"
+    }
+  ]
+}
